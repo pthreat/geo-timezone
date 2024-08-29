@@ -20,7 +20,7 @@
     "ext-mbstring": ">=7.0",
     "ext-zip": "*",
     "ext-xml":">=7.0",
-    "phayes/geoPHP": "1.2.*"
+    "phayes/geophp": "1.2.*"
   },
   "autoload": {
     "psr-4": {
